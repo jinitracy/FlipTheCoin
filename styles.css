@@ -1,0 +1,79 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.toss {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #171717;
+}
+
+h2 {
+  margin: 30px;
+  padding-left: 20rem;
+  font-family: Montserrat;
+  text-shadow: 5px 0 #FF616D;
+  font-size: 7rem;
+  color: #DA0037;
+  align-items: center;
+
+}
+
+h3{
+  margin: 30px;
+  text-align: center;
+  font-family: Montserrat;
+  text-shadow: 5px 0 #FF616D;
+  font-size: 7rem;
+  color: #DA0037;
+
+}
+
+p {
+  font-size: 2rem;
+  color: #DA0037;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #DA0037;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #FF616D;
+  margin-left: 35rem;
+  margin-bottom: 2rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.button:hover {background-color: #D83A56}
+
+.button:active {
+  background-color: #DA0037;
+  box-shadow: 0 5px #FF616D;
+  transform: translateY(4px);
+}
+
+#coin {
+  width: 100%;
+}
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
